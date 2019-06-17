@@ -128,18 +128,33 @@ export class ListaGeneralProductosPage {
 
   }
 
-  /* ionViewDidLoad() {
-    console.log('ionViewDidLoad ListaGeneralProductosPage');
-  } */
-  
+  VolverNumerico(producto){
+    if(producto.recomendado != ""){
+      producto.recomendado = Number(producto.recomendado);
+      if(producto.recomendado >= 90){
+        return producto;
+      }  
+    }
+    return;
+  }
 
   //PONEMOS LOS DATOS DE CADA TIPO EN LA LISTA
   filterItemsOfType(type){
     if(type.toLowerCase() == 'productos estrella'){
-      return this.productos.filter(x => x.recomendado == "100");
+      var productos_en_enteros = this.productos.map(this.VolverNumerico);
+      var productos_enteros_sin_null = productos_en_enteros.filter(x => x != undefined);
+      var productos_ordenados = productos_enteros_sin_null.sort((a,b)=> b.recomendado-a.recomendado);
+      return productos_ordenados;
     }
-    return this.productos.filter(x => x.tipo.toLowerCase() == type.toLowerCase());
+
+    //ELIMINAMOS LOS PRODUCTOS ERRONEOS
+    var noUndefined = this.productos.filter(x => x.tipo != undefined);
+    //FILTRAMOS POR TIPO
+    return noUndefined.filter(x => x.tipo.replace(/\s/g, '').toLowerCase().includes(type.toLowerCase()));
+ 
+    
   }
+  
   //ARMAMOS LISTAS DE TIPOS
   filterItemsNames(){
     return this.ListaCortaTipos.filter(x => x.text.toLowerCase() != 'todos los productos');

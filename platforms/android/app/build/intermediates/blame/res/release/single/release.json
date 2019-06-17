@@ -4,20 +4,8 @@
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
@@ -32,64 +20,20 @@
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/xml/config.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_bg_low.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -112,16 +56,8 @@
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
@@ -132,40 +68,32 @@
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
-    },
-    {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_icon_background.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-v21/notification_action_background.xml"
     },
     {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v21/notification_action.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -180,20 +108,16 @@
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable/notification_bg.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v16/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
@@ -204,196 +128,92 @@
         "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
-    },
-    {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_tile_bg.xml"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_media.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v16/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_media_action.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_media_custom.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_media_custom.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable/notification_tile_bg.xml"
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
@@ -408,12 +228,20 @@
         "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
     },
     {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_lines_media.xml"
+    },
+    {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_action_tombstone.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -424,48 +252,48 @@
         "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/xml/config.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_template_icon_group.xml"
     },
     {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_action.xml"
+    },
+    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v16/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
     },
     {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_action.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_bg.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
     },
     {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -476,24 +304,16 @@
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-v21/notification_action_background.xml"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/xml/config.xml"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
-        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_big_media.xml"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
-        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow.xml.flat",
@@ -516,24 +336,436 @@
         "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
-        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_action.xml"
-    },
-    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
-    },
-    {
-        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
-        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
         "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_action.xml"
     },
     {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
         "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
         "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-mdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-ldpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-mdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-ldpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-ldpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-hdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-hdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-hdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xhdpi/screen.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-ldpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-mdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-mdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-land-xxxhdpi_screen.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/drawable-land-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4212107a2c7632a31ab6dc5af6be5e39/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/xml_config.xml.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/mipmap-hdpi_icon.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/drawable-port-xxxhdpi_screen.png.flat",
+        "source": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/src/main/res/drawable-port-xxxhdpi/screen.png"
+    },
+    {
+        "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
+        "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/private/var/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/c6663dde4b710841a19530d6c3e08f24/res/layout/notification_template_big_media_custom.xml"
     },
     {
         "merged": "/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",

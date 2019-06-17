@@ -26,10 +26,6 @@
     "cordova-plugin-ionic-keyboard": {
       "PACKAGE_NAME": "io.ionic.starter"
     },
-    "phonegap-plugin-push": {
-      "FCM_VERSION": "11.6.2",
-      "PACKAGE_NAME": "barbero.express.app"
-    },
     "cordova-sqlite-storage": {
       "PACKAGE_NAME": "barbero.express.app"
     }

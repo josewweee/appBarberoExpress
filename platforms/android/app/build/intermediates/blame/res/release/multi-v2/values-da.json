@@ -111,6 +111,62 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-da/values-da.xml",
+            "map": [
+                {
+                    "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/cd4ce15278ea001265848dcb5052c5eb/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "397",
+                        "endColumns": "100",
+                        "endOffsets": "493"
+                    }
+                },
+                {
+                    "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/a74efecdae1d8bd9ea91400544c39af9/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "185",
+                        "endOffsets": "470"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "185",
+                        "endOffsets": "286"
+                    }
+                },
+                {
+                    "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.6.2.aar/0184000f1c8cfe4078dd69eb6c0f9bf4/res/values-da/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "243",
+                        "endColumns": "101",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "105",
+                        "endOffsets": "392"
+                    }
+                }
+            ]
         }
     ]
 }

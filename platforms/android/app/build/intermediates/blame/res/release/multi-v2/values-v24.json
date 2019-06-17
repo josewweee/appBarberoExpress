@@ -16,6 +16,21 @@
             ]
         },
         {
+            "outputFile": "/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/home/jose/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/8b3a33ae45f6697ed1b1078d1c60df9d/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/cristianfranco/Documents/emprendimiento/appBarberoExpress/platforms/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {

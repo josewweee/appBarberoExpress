@@ -1,4 +1,4 @@
-#Fri May 17 12:31:14 COT 2019
-base.0=/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/transforms/dex/release/0
+#Mon Jun 17 10:49:26 COT 2019
+base.0=/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/transforms/dex/release/0
 renamed.0=classes.dex
-file.0=/home/jose/Documentos/B/app/backupBodega/appBarberoExpress/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex
+file.0=/home/jose/Documentos/trabajo/barberoExpress/appBarberoExpress/platforms/android/app/build/intermediates/transforms/dex/release/0/classes.dex
